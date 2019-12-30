@@ -18,5 +18,6 @@ public class KeepGuessing {
     }
 
     System.out.println("That's right! You're a good guesser.");
+    
   }
 }
